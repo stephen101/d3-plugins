@@ -2,7 +2,7 @@
 
 The purpose of this plugin is to make working with line segments a little easier.
 
-Demo: http://bl.ocks.org/stephen101/7640188/3ffe0c5dbb040f785b91687640a893bae07e36c3
+Demo: http://bl.ocks.org/stephen101/7640188
 
 ## Instantiation
 
