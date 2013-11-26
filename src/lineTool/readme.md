@@ -27,3 +27,8 @@ To calculate the distance between the source and destination points:
 ```javascript
 lt.dist()
 ```
+
+##Wishlist
+- Position at % (to calculate the x and y co-ordinates at any position along a line negative percentages and >100% supported)
+- Position at length (same as above but with pixels)
+- Calculate target position given start,angle and distance
